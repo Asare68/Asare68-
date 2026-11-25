@@ -1,12 +1,12 @@
-# Asare68-
-# Hi, I’m Asare 👋
+
+# Hi, I’m Asare
 
 I am a Computer Science student at Universidade Estadual de Londrina (UEL), Brazil.
 
 - 🇬🇭 Ghanaian student in Brazil through PEC-G
-- 💻 Interested in software development, cybersecurity, and embedded systems
-- 🌱 Currently learning Java, Python, Git, SQL, data structures, and web development
-- 🔭 Building academic and personal programming projects
+- Interested in software development, cybersecurity, and embedded systems
+- Currently learning Java, Python, Git, SQL, data structures, and web development
+-  Building academic and personal programming projects
 - 📍 Based in Londrina, Paraná, Brazil
 
 ## Skills and Technologies
